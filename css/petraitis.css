@@ -1,0 +1,11 @@
+.align-left {
+    float: left;
+}
+
+.align-right {
+    float: right;
+}
+
+.clear-floats {
+    clear: both;
+}
