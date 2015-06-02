@@ -9,3 +9,7 @@
 .clear-floats {
     clear: both;
 }
+
+.download, .download > i {
+    color: #2c3e50;
+}

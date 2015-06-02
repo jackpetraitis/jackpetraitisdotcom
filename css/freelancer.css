@@ -89,6 +89,16 @@ header img {
     margin: 0 auto 20px;
 }
 
+section.bio img {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+section.bio .intro-text {
+    text-align: center;
+}
+
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
@@ -173,6 +183,11 @@ section h2 {
 }
 
 section.success {
+    color: #fff;
+    background: #18bc9c;
+}
+
+section.bio {
     color: #fff;
     background: #18bc9c;
 }
