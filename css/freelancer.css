@@ -182,16 +182,6 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
-    color: #fff;
-    background: #18bc9c;
-}
-
-section.bio {
-    color: #fff;
-    background: #18bc9c;
-}
-
 @media(max-width:767px) {
     section {
         padding: 75px 0;
