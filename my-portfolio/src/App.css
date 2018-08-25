@@ -15,12 +15,20 @@
   color: white;
 }
 
+
+.App-header h1 a {
+  color: white;
+}
+
 .App-title.center {
   text-align: center;
 }
 
 .App-title.center a {
   color: white;
+}
+h1.App-title a.MenuLink:hover {
+  color: lightgrey;
 }
 
 .App-header h4, .App-header h1 {
@@ -75,10 +83,6 @@
   padding: 20px;
   width: 360px;
   display: inline-block;
-}
-
-.App-header h1 a {
-  color: white;
 }
 
 .App-header h6 {
