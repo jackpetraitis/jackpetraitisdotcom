@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import MenuLinks from './MenuLinks';
 
 class App extends Component {
   render() {
@@ -7,7 +8,8 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1 className="App-title">Projects</h1>
-          <h1 className="App-title">Books</h1>          
+          <h1 className="App-title">Books</h1>
+          <MenuLinks linkURL="http://google.com" linkText="Whatwhatwhat"></MenuLinks>          
           <h6><a href="http://jackpetraitis.com/login">Login</a></h6>
           <i><h2 className="App-title center"><a href="http://jackpetraitis.com">jackpetraitis.com</a></h2></i>
         </header>

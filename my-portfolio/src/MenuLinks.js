@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import "MenuLink.css";
+import "./MenuLink.css";
 
 class MenuLink extends Component {
     constructor(props){
