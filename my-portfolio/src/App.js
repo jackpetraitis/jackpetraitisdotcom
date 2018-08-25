@@ -11,6 +11,13 @@ class App extends Component {
           <h6><a href="http://jackpetraitis.com/login">Login</a></h6>
           <i><h2 className="App-title center"><a href="http://jackpetraitis.com">jackpetraitis.com</a></h2></i>
         </header>
+        <div className="box-resume">
+          <div className="resume">
+            <p>
+              Resume section, possible auth-protected by Recruiter Login  
+            </p>
+          </div>
+        </div>
         <div className="big-box-projects">
           <p>
             Here be a section devoted to projects
@@ -56,13 +63,6 @@ class App extends Component {
                 Project Array
               </p>
             </div>
-          </div>
-        </div>
-        <div className="box-resume">
-          <div className="resume">
-            <p>
-              Resume section, possible auth-protected by Recruiter Login  
-            </p>
           </div>
         </div>
         <div className="box-books">
