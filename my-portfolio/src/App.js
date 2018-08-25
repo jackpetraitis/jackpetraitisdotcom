@@ -7,11 +7,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Projects</h1>
-          <h1 className="App-title">Books</h1>
-          <h1 className="App-title"><MenuLinks linkURL="http://google.com" linkText="Whatwhatwhat"></MenuLinks></h1>  
-          <h1 className="App-title"><MenuLinks linkURL="http://www.google.com" linkText="Whatwhatwhat2"></MenuLinks></h1>         
-          <h6><a href="http://jackpetraitis.com/login">Login</a></h6>
+          <h1 className="App-title"><MenuLinks linkURL="http://google.com" linkText="Projects"></MenuLinks></h1>  
+          <h1 className="App-title"><MenuLinks linkURL="http://www.google.com" linkText="Books"></MenuLinks></h1>         
+          <h6 className="App-login"><a href="http://jackpetraitis.com/login">Login</a></h6>
           <i><h2 className="App-title center"><a href="http://jackpetraitis.com">jackpetraitis.com</a></h2></i>
         </header>
         <div className="box-resume">
