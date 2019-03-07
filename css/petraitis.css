@@ -22,3 +22,7 @@ section.inverse {
 header {
     background: lightslategray;
 }
+
+section#bookshelf {
+    background-image: url("img/groovy.jpeg");
+}
