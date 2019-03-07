@@ -24,5 +24,6 @@ header {
 }
 
 section#bookshelf {
+    color: white;
     background-image: url("../img/groovy.jpeg");
 }
