@@ -29,5 +29,5 @@ section#bookshelf {
 }
 
 .star-primary.start-two {
-    background-color: lightyellow;
+    border-color: lightyellow;
 }
