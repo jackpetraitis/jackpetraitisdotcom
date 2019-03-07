@@ -18,3 +18,7 @@ section.inverse {
     color: #fff;
     background: #18bc9c;
 }
+
+header {
+    background: lightslategray;
+}
