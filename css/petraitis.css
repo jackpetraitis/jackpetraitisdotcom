@@ -27,3 +27,7 @@ section#bookshelf {
     color: white;
     background-image: url("../img/groovy.jpeg");
 }
+
+.star-primary.start-two {
+    background-color: lightyellow;
+}
