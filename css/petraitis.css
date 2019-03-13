@@ -31,3 +31,11 @@ section#bookshelf {
 .star-primary.start-two {
     border-color: lightyellow;
 }
+
+.project-detail {
+    text-align: center;
+}
+
+.project-detail-body h2 {
+    text-align: center;
+}
